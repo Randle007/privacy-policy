@@ -1,0 +1,14 @@
+Privacy Policy for Image Processing API
+This privacy policy explains how we handle and protect your personal data when using our image processing services.
+
+1. Data Collection:
+We collect images submitted by users for analysis via the Google Vision API. No additional personal information is collected.
+2. Data Use:
+The images are processed through the Google Vision API for the purpose of object detection, face detection, and other image-related analyses.
+3. Data Storage:
+We do not store your images permanently. They are processed temporarily and discarded after analysis is complete.
+4. Data Sharing:
+We do not share your data with any third parties. The images are only processed through Google Cloud Vision for analysis.
+5. Contact Information:
+If you have any questions regarding this privacy policy, please contact us at: cdigilbert@aol.com
+This policy may be updated at any time without prior notice.
